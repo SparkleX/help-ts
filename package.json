@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "start": "node dist/yeild"
+    "start": "echo 'ts-node [ts src/filename]'"
   },
   "private": true,
   "author": "Sun, Xufei",
